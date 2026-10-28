@@ -1,4 +1,4 @@
-# Projeto-IA
+# Projeto-IA-PACMAN
 
 Aprendizado por Reforço: Pac-Man como MDP
 
